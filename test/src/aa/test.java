@@ -10,6 +10,7 @@ public class test {
 	          System.out.println();
 	      }
 
+		System.out.println("팀원-spacedetail-첫번째 추가")
 	     
 
 	}
